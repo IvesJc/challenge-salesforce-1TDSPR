@@ -86,6 +86,6 @@ Por isso a proposta do grupo é:
 
 ## Desenvolvedores
 <h3>Turma FIAP 1TDSPR ADS</h3>
-<p>Ellie de Oliveira</p>
-<p>Ives Chiba</p>
-<p>Pedro Gandor Alves</p>
+<p>Ellie de Oliveira - 552824</p>
+<p>Ives Chiba - 553243</p>
+<p>Pedro Gandor Alves - 553616</p>
